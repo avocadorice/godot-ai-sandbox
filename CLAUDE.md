@@ -1,10 +1,10 @@
-# lifestyle
+# godot-ai-sandbox
 
 ## Goal
-vibes
+Godot-based project targeting low-end Android devices (Chromecast HD). Scope TBD.
 
 ## Stack
-create a startup
+Godot
 
 ## Session Log
 All prompts and summarized responses are automatically appended to `logs/session.log`.
