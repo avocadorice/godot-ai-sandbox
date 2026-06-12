@@ -8,7 +8,7 @@ Walk the user through bootstrapping a new project. Ask these questions **one at 
 Once you have all answers, execute the bootstrap script:
 
 ```bash
-bash ~/dev/claude-template/scripts/new-project.sh \
+bash ~/Library/CloudStorage/GoogleDrive-bhsiao123@gmail.com/My\ Drive/dev/claude-template/scripts/new-project.sh \
   "<project-name>" \
   "<goal>" \
   "<tech-stack>" \

@@ -8,7 +8,7 @@ GOAL="$2"
 STACK="$3"
 GITHUB="$4"
 
-TEMPLATE_DIR="$HOME/dev/claude-template"
+TEMPLATE_DIR="$HOME/Library/CloudStorage/GoogleDrive-bhsiao123@gmail.com/My Drive/dev/claude-template"
 TARGET_DIR="$HOME/dev/$NAME"
 
 if [ -z "$NAME" ]; then
